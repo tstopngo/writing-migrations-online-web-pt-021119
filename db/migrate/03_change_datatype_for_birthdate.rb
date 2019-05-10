@@ -1,5 +1,5 @@
 class ChangeDatatypeForBirthdate < ActiveRecord::Migration[5.1]
   
-  def chage
+  def chhange
 
 end
